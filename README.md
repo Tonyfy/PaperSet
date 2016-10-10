@@ -14,3 +14,21 @@
  * Accelerating Deep Convolutional Networks using low-precision and sparsity
 
  使用低精度和稀疏化实现深度卷积网络的加速，2bit的计算精度，在1Tflop设备上正常工作，效率提升较大。
+
+* Rich feature hierarchies for accurate object detection and semantic segmentation
+
+R-CNN，region of CNN feature。
+
+1.首先基于原始图像生成种类独立的区域，这些区域构成了我们detector的候选检测集
+
+2.对第一步提取的所有区域应用CNN结构，得到一个固定长度的特征向量
+
+3.使用特定的SVM分类器对第二步的特征向量进行分类
+
+
+* Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+
+* Fast R-CNN
+
+使用一个全连接层，取代SVM。增加分类和位置精修的双路输出。
+
