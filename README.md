@@ -11,4 +11,6 @@
 该算法方案使用wider 数据库，在fddb上达到近95%的准确率。
 
 
- 
+ * Accelerating Deep Convolutional Networks using low-precision and sparsity
+
+ 使用低精度和稀疏化实现深度卷积网络的加速，2bit的计算精度，在1Tflop设备上正常工作，效率提升较大。
