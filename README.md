@@ -39,4 +39,13 @@ R-CNN，region of CNN feature。
 在小训练集的限制下，本文的改进可以达到更高的准确率。
 
 * [Learning Deep Feature Representations with Domain Guided Dropout for Person Re-identification](https://arxiv.org/pdf/1604.07528v1.pdf)
+
 CVPR2016 person Re-ID use multi datasets.
+
+* [Joint Face Representation Adaptation and Clustering in Videos](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_joint.pdf)
+
+ECCV 2016 吕健勤等
+
+* [Accelerating the Super-Resolution Convolutional Neural Network](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_accelerating.pdf)
+
+ECCV 2016 超分辨率 吕健勤
