@@ -1,6 +1,17 @@
 # PaperSet
 关注的一些CV，ML方面的论文
 
+## Learning Strategy
+
+* [Layer Normalization](https://arxiv.org/abs/1607.06450v1)
+
+基于对 batch Normalization 优缺点的思考，本文提出了Layer Normalization的方法，下面是两者对比情况：
+
+|optimization method|training time of DNN|On RNN|Train/Test Phase|
+|-------------------|--------------------|------|----------------|
+|Batch Normalization| accelerate the SGD |not directly use|only for Train|
+|Layer Normalization| accelerate more    |both CNN,RNN|both for Train and Test|
+
 ## CNN 应用
 
 * [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf)
