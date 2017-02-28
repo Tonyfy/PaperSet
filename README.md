@@ -1,6 +1,11 @@
 # PaperSet
 关注的一些CV，ML方面的论文
 
+## visualising
+* [VisualBackProp: visualizing CNNs for autonomous driving](https://arxiv.org/pdf/1611.05418v2.pdf)
+
+在CNN 网络的feature map 中显示输入的哪些像素对结果的响应最大，并在自动驾驶场景实验。
+
 ## Learning Strategy
 
 * [Layer Normalization](https://arxiv.org/abs/1607.06450v1)
