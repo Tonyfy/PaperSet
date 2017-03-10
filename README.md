@@ -1,5 +1,5 @@
 # PaperSet
-关注的一些CV，ML方面的论文
+paper set of computer vision，high-performance computing，Deep learning ，CNN，GAN，RNN，etc
 
 ## visualising
 * [VisualBackProp: visualizing CNNs for autonomous driving](https://arxiv.org/pdf/1611.05418v2.pdf)
