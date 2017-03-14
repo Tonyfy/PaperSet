@@ -8,4 +8,4 @@ semantic segmentation 是比较难的问题，要确定图像中含有哪些物�
 
 ![arch][arch]
 
-[arch]:imgs/mixed context networks.png
+[arch]: imgs/mixed-context-networks.png
