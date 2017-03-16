@@ -1,17 +1,12 @@
 # PaperSet
 paper set of computer vision，high-performance computing，Deep learning ，CNN，GAN，RNN，etc
 
-* [image segmentation](./image segmentation)
-* [video analysis](./video analysis)
+* [image segmentation](./image-segmentation)
+* [video analysis](./video-analysis)
 * [visualising](./visualising)
-* [Learning Strategy](./learning strategy)
+* [Learning Strategy](./learning-strategy)
 
-
-
-## face 应用
-
-* [face recognition](./face recognition)
-* face detection
+* [face recognition](./face-recognition)
 
 * [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf)
 使用多级级联CNN网络的思路解决人脸检测和人脸标定的任务。
