@@ -1,23 +1,17 @@
 # PaperSet
 paper set of computer vision，high-performance computing，Deep learning ，CNN，GAN，RNN，etc
 
-## visualising
-* [VisualBackProp: visualizing CNNs for autonomous driving](https://arxiv.org/pdf/1611.05418v2.pdf)
+* [image segmentation](./image segmentation)
+* [video analysis](./video analysis)
+* [visualising](./visualising)
+* [Learning Strategy](./learning strategy)
 
-在CNN 网络的feature map 中显示输入的哪些像素对结果的响应最大，并在自动驾驶场景实验。
 
-## Learning Strategy
 
-* [Layer Normalization](https://arxiv.org/abs/1607.06450v1)
+## face 应用
 
-基于对 batch Normalization 优缺点的思考，本文提出了Layer Normalization的方法，下面是两者对比情况：
-
-|optimization method|training time of DNN|On RNN|Train/Test Phase|
-|-------------------|--------------------|------|----------------|
-|Batch Normalization| accelerate the SGD |not directly use|only for Train|
-|Layer Normalization| accelerate more    |both CNN,RNN|both for Train and Test|
-
-## CNN 应用
+* [face recognition](./face recognition)
+* face detection
 
 * [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf)
 使用多级级联CNN网络的思路解决人脸检测和人脸标定的任务。
