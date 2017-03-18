@@ -2,9 +2,9 @@
 
 Introduce the application on Image/Speech/Video/etc ,show the power of ML&DL.
 
-These Application include:
+These Applications include:
 
-* [Image](./Image)
+* [Image](./Image) 
 * [Speech](./Speech)
 * [Video](./Video)
 * [NLP](./NLP)

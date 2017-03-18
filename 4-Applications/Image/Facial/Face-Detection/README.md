@@ -1,5 +1,9 @@
 # Face Detection
 
+* Face Detection with the Faster R-CNN
+
+use RPN for face region proposal.
+
 * [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf)
 使用多级级联CNN网络的思路解决人脸检测和人脸标定的任务。
 

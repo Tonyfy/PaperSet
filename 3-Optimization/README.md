@@ -10,3 +10,8 @@ Papers introduce Optimization method in ML&DL.
 |-------------------|--------------------|------|----------------|
 |Batch Normalization| accelerate the SGD |not directly use|only for Train|
 |Layer Normalization| accelerate more    |both CNN,RNN|both for Train and Test|
+
+* Learning from Imbalance Data
+
+
+
