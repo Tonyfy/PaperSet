@@ -31,6 +31,7 @@ RoiAlign 提升明显，对比ROIWarp..
 ### 实现
 
 * 训练
+
 ![tra][tra]
 
 [tra]:imgs/mrcnn-train.png
