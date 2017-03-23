@@ -11,13 +11,14 @@ introduce some Competetions that using ML&DL technology.
 与PASCAL,ImageNet,SUN进行了详细的数据对比。
 提供了基于DPM方法的baseline.
 
-COCO面临**`任务`**为
+COCO面临`任务`为
 
 ![intu][intu]
 
 [intu]:imgs/COCO-intuiation.png
 
 * Image Classification
+
     给出目标是否存在的二值结果。
 
 * Object detection
@@ -25,4 +26,4 @@ COCO面临**`任务`**为
 * instance segmentation
     ...
 
-* [PASCAL]()
+## PASCAL
