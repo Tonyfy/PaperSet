@@ -1,8 +1,10 @@
 # Object Detection
 
-* Rich feature hierarchies for accurate object detection and semantic segmentation
+## OverFeat
 
-R-CNN，region of CNN feature。
+提出一种CNN框架，同时进行图像分类，检测和定位的任务。
+
+* [R-CNN] Rich feature hierarchies for accurate object detection and semantic segmentation
 
 1.首先基于原始图像生成种类独立的区域，这些区域构成了我们detector的候选检测集
 
