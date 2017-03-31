@@ -17,7 +17,7 @@ Majorly describe as:
 
 ## object detection
 
-[rcnn method](4-Applications/Image/Object-Detection) : include r-cnn,SPPnet,fast r-cnn,faster r-cnn...
+[rcnn method](4-Applications/Image/Object-Detection) : include r-cnn,SPPnet,fast r-cnn,faster r-cnn ,etc
 
 
 
